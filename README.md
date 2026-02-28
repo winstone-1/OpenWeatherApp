@@ -46,7 +46,7 @@ const LocationAPIKey = "b665d211ec5a8d340c2dbde857512e70";
 
 ```
 ## Screenshot
-![Alt Text](JS\API.png)
+![Alt Text](JS/API.png)
 
 ## Support and Contact Information
 **email:** winstonemuna404@gmail.com
